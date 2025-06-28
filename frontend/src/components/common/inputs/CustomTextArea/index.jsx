@@ -5,7 +5,6 @@ const CustomTextArea = ({
   value,
   onChange,
   className,
-  label,
   ...props
 }) => {
   
